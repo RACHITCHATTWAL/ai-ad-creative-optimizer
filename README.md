@@ -1,8 +1,6 @@
 🧠 APACO – AI-Powered Ad Creative Optimizer
 _Zero-to-winning ads in minutes. Let the machine test, learn & evolve your video creatives while you sleep 
 
-[![Build](https://img.shields.io/github/actions/workflow/status/RACHITCHATTWAL/ai-ad-creative-optimizer://github.com/RACHITCHATTWAL/ai-ad-creative-optimizer://img.shields.io/badge/license](https://img.shade with ❤️](https://img.shields.io/badge/made with-❤️-APACOTL;DR**
-
 Point APACO at your ad account.
 
 It ingests past performance, mines high-impact hooks, bodies & CTAs.
